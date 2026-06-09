@@ -8,7 +8,7 @@ The application is built using **Python, Scikit-learn, and Streamlit**, and allo
 
 ## 🚀 Live Demo
 
-👉 https://energy-consumption-prediction-by-sapna.streamlit.app/
+👉 [https://energy-consumption-prediction-by-sapna.streamlit.app/](https://energyconsumptionprediction-sapnasingh.streamlit.app/)
 
 ## 📌 Features
 
