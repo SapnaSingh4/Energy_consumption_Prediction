@@ -64,7 +64,7 @@ energy-consumption-prediction/
 1️⃣ Clone the repository:
 
 ```
-git clone https://github.com/janhavisawant03/energy-consumption-prediction.git
+git clone https://github.com/sapnasingh4/energy-consumption-prediction.git
 ```
 
 2️⃣ Navigate to the project folder:
@@ -127,5 +127,5 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Janhavi Sawant**
+**Sapna Singh**
 BSc Computer Science Student | Aspiring Data Scientist
