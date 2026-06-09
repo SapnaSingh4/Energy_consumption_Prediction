@@ -10,8 +10,6 @@ The application is built using **Python, Scikit-learn, and Streamlit**, and allo
 
 👉 https://energy-consumption-prediction-by-sapna.streamlit.app/
 
----
-
 ## 📌 Features
 
 * 🔮 Predict energy consumption in real-time
